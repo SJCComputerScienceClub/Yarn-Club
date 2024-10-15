@@ -1,3 +1,7 @@
+So this is the yarn club website so far. I need to add tutorials for crochet, knitting, and bracelet making. I also need to add a link to join the outlook group. 
+
+
+
 Phantom by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
