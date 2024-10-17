@@ -5,6 +5,8 @@ So this is the yarn club website so far.
 
 ## Todo:
 
-- [x] Add tutorials for corchet, knitting, and bracelet making
+- [x] Add tutorials for crochet,
+- [ ] tutorials for knitting
+- [ ] tutorials for bracelet making
 - [x] Set image size
 - [ ] Add link to join outlook group
