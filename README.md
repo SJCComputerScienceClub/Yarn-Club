@@ -7,4 +7,4 @@ So this is the yarn club website so far.
 
 - [x] Add tutorials for corchet, knitting, and bracelet making
 - [x] Set image size
-- [] Add link to join outlook group
+- [ ] Add link to join outlook group
