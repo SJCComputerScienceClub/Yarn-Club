@@ -9,4 +9,4 @@ So this is the yarn club website so far.
 - [ ] tutorials for knitting
 - [ ] tutorials for bracelet making
 - [x] Set image size
-- [ ] Add link to join outlook group
+- [x] Add link to join outlook group
